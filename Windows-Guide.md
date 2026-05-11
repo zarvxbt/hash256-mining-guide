@@ -9,7 +9,7 @@ Full step-by-step guide for running the HASH256 miner on Windows using WSL (Ubun
 - Windows 10 or 11
 - WSL installed with Ubuntu
 - A burner ETH wallet address and private key
-- ~0.02 ETH in that wallet for gas fees
+- ~0.0005 ETH in that wallet for gas fees
 
 ---
 
