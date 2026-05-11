@@ -28,7 +28,7 @@ HASH256 is an on-chain Proof of Work mining protocol on Ethereum mainnet. Runs f
 | Requirement | Details |
 |---|---|
 | Wallet | Burner ETH wallet — never use your main |
-| ETH | ~0.02 ETH for gas fees |
+| ETH | ~0.0005 ETH for gas fees |
 | Python | Python 3.x |
 | Rust | For compiling the high-speed hash worker |
 | Time | ~10 minutes |
